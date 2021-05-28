@@ -1,0 +1,26 @@
+.navcolor{
+    background-color: #06a190;
+   
+}
+
+.navtext{
+    font-size: 25px;
+    color:red;
+    
+}
+
+.overh{
+    color: #1e367d;
+    z-index: 3;
+    font-weight: bold;
+    font-family: sans-serif;
+    
+}
+
+.overp{
+    color: #0d9ee0;
+    z-index: 3;
+    font-size: 30px;
+    
+    font-family: sans-serif;
+}
